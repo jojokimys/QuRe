@@ -1,6 +1,3 @@
-# QuRe
-QR code tattoo that stores essential medical information
-
 # QuRe @ MedHacks 2017 Fall
 ![alt text](https://github.com/jojokimys/QuRe/blob/master/qure.png "QuRe Img")
 ## Inspiration
