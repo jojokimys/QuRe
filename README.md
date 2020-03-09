@@ -8,7 +8,7 @@ QR code tattoo that stores essential medical information
 
 ## What it does
 ### QuRe is a tool utilized to improve response time speed for emergency personnel. With a simple scan, a QuRe tattoo gives access to a plethora of detailed patient information to be referenced at a moment’s notice during an emergency.
-[link to Slide Show!](https://docs.google.com/presentation/d/1LsAqMDZ47A2DlNsmWI-ivBj5R90WodvhCQ0-QY5SAEQ/edit?usp=sharing)
+[link to Slide Show!](https://docs.google.com/presentation/d/11rcS8zGHlTz-0_ixG7SO_gKGh0YgY6UJpxWjBgYPrUM/edit?usp=sharing)
 
 ## Used Technology
 ### Android Studio, Bit-wise data storing design
